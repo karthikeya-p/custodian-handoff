@@ -4,7 +4,7 @@ title: "Custodian handoffs in the U.S. NRC public record: code and data"
 version: "1.0.0"
 date-released: "2026-10-30"
 license: MIT
-repository-code: "https://github.com/Karthikeyap-dev/custodian-handoff"
+repository-code: "https://github.com/karthikeya-p/custodian-handoff"
 authors:
   - family-names: "P"
     given-names: "Karthikeya"

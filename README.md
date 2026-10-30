@@ -1,5 +1,7 @@
 # Custodian handoffs in the U.S. NRC public record
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23790762.svg)](https://doi.org/10.5281/zenodo.23790762)
+
 Code and data for the paper *When the Custodian Changes: Measuring Record Attribution Across U.S. Nuclear License Transfers*.
 
 The study measures how 37 changes of licensee at 15 U.S. nuclear sites (orders 1999–2022), plus one approved transfer that never closed, appear in the metadata of the NRC's public document library (ADAMS).
@@ -24,7 +26,7 @@ results/            outputs of run_analysis.sh: per-event measures, tables and f
 ## Reproduce the paper
 
 ```bash
-git clone https://github.com/Karthikeyap-dev/custodian-handoff.git && cd custodian-handoff
+git clone https://github.com/karthikeya-p/custodian-handoff.git && cd custodian-handoff
 pip install -r requirements.txt
 bash run_analysis.sh
 ```
@@ -72,4 +74,4 @@ Code: MIT (see `LICENSE`). The ADAMS metadata in `data/docs.csv.xz` is a public 
 
 ## Citation
 
-See `CITATION.cff`. Archived on Zenodo: doi:10.5281/zenodo.XXXXXXX
+See `CITATION.cff`. Archived on Zenodo: [doi:10.5281/zenodo.23790762](https://doi.org/10.5281/zenodo.23790762) (version 1.0.0).
