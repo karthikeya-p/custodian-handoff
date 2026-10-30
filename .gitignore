@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+# editors
+.vscode/
+.idea/
+# run-time output
+work/
+collect/raw/
+collect/docs.csv.gz
+collect/collect_log.csv
+collect/probe.txt
+*.pkl
+*.log
+*.zip

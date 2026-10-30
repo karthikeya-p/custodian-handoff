@@ -1,0 +1,9 @@
+{
+  "title": "Custodian handoffs in the U.S. NRC public record: code and data",
+  "upload_type": "software",
+  "description": "Collection scripts, ADAMS document metadata (722,497 records from 28 reactor dockets), the curated table of 38 licensee changes and the analysis code behind the paper 'When the Custodian Changes: Measuring Record Attribution Across U.S. Nuclear License Transfers'.",
+  "creators": [{"name": "P, Karthikeya", "affiliation": "Vellore Institute of Technology"}],
+  "license": "MIT",
+  "keywords": ["chain of custody", "provenance", "metadata quality", "license transfer", "NRC", "ADAMS"],
+  "version": "1.0.0"
+}

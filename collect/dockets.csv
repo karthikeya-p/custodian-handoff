@@ -1,0 +1,29 @@
+docket,plant,group
+05000295,Zion 1,transfer
+05000304,Zion 2,transfer
+05000409,La Crosse,transfer
+05000320,Three Mile Island 2,transfer
+05000289,Three Mile Island 1,transfer
+05000219,Oyster Creek,transfer
+05000003,Indian Point 1,transfer
+05000247,Indian Point 2,transfer
+05000286,Indian Point 3,transfer
+05000302,Crystal River 3,transfer
+05000305,Kewaunee,transfer
+05000244,Ginna,transfer
+05000220,Nine Mile Point 1,transfer
+05000410,Nine Mile Point 2,transfer
+05000245,Millstone 1,transfer
+05000336,Millstone 2,transfer
+05000423,Millstone 3,transfer
+05000443,Seabrook,transfer
+05000333,FitzPatrick,transfer
+05000461,Clinton,transfer
+05000331,Duane Arnold,transfer
+05000266,Point Beach 1,transfer
+05000301,Point Beach 2,transfer
+05000275,Diablo Canyon 1,control
+05000323,Diablo Canyon 2,control
+05000361,San Onofre 2,control
+05000362,San Onofre 3,control
+05000285,Fort Calhoun,control

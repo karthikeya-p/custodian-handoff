@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Custodian handoffs in the U.S. NRC public record: code and data"
+version: "1.0.0"
+date-released: "2026-10-30"
+license: MIT
+repository-code: "https://github.com/Karthikeyap-dev/custodian-handoff"
+authors:
+  - family-names: "P"
+    given-names: "Karthikeya"
+    affiliation: "Vellore Institute of Technology"
+keywords: [chain of custody, provenance, metadata quality, license transfer, NRC, ADAMS]

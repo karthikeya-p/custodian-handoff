@@ -1,0 +1,39 @@
+site,mode,true,label_changes,detected,spurious
+Zion,raw,3,8,2,6
+Zion,family,3,5,1,4
+La Crosse,raw,2,2,1,1
+La Crosse,family,2,2,1,1
+TMI-1,raw,3,4,3,1
+TMI-1,family,3,2,2,0
+TMI-2,raw,1,11,1,10
+TMI-2,family,1,6,1,5
+Oyster Creek,raw,3,5,3,1
+Oyster Creek,family,3,2,2,0
+Indian Point,raw,3,7,3,5
+Indian Point,family,3,3,3,1
+FitzPatrick,raw,3,5,3,1
+FitzPatrick,family,3,3,3,0
+Crystal River 3,raw,1,4,1,3
+Crystal River 3,family,1,1,1,0
+Kewaunee,raw,3,4,2,1
+Kewaunee,family,3,3,2,1
+Ginna,raw,3,5,3,1
+Ginna,family,3,3,3,0
+Nine Mile Point,raw,3,7,3,3
+Nine Mile Point,family,3,3,3,0
+Millstone,raw,1,2,1,1
+Millstone,family,1,1,1,0
+Seabrook,raw,1,2,1,1
+Seabrook,family,1,1,1,0
+Clinton,raw,3,4,3,1
+Clinton,family,3,2,2,0
+Duane Arnold,raw,2,6,2,3
+Duane Arnold,family,2,4,2,2
+Point Beach,raw,2,3,2,1
+Point Beach,family,2,2,2,0
+Diablo Canyon,raw,0,0,0,0
+Diablo Canyon,family,0,0,0,0
+San Onofre,raw,0,0,0,0
+San Onofre,family,0,0,0,0
+Fort Calhoun,raw,0,2,0,2
+Fort Calhoun,family,0,2,0,2
