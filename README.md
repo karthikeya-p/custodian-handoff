@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23790762.svg)](https://doi.org/10.5281/zenodo.23790762)
 
-Code and data for the paper *When the Custodian Changes: Measuring Record Attribution Across U.S. Nuclear License Transfers*.
+Code and data for the paper *Record Attribution Across Custodian Handoffs: A Measurement Study of U.S. Nuclear License Transfers*.
 
 The study measures how 37 changes of licensee at 15 U.S. nuclear sites (orders 1999–2022), plus one approved transfer that never closed, appear in the metadata of the NRC's public document library (ADAMS).
 
